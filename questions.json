@@ -1,0 +1,50 @@
+{
+  "testName": "WEB",
+  "questions": [
+    {
+      "question": "Що означає абревіатура HTML?",
+      "answers": [
+        { "answer": "Hyper Text Markup Language", "isCorrect": true },
+        { "answer": "Hyperlinks and Text Markup Language", "isCorrect": false },
+        { "answer": "Home Tool Markup Language", "isCorrect": false },
+        { "answer": "Hyperlinks Text Management Language", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Вкажіть тег для блоку",
+      "answers": [
+        { "answer": "a", "isCorrect": false },
+        { "answer": "div", "isCorrect": true },
+        { "answer": "img", "isCorrect": false },
+        { "answer": "p", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Вкажіть тег для гіперпосилання",
+      "answers": [
+        { "answer": "a", "isCorrect": true },
+        { "answer": "div", "isCorrect": false },
+        { "answer": "span", "isCorrect": false },
+        { "answer": "p", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Що означає абревіатура CSS?",
+      "answers": [
+        { "answer": "Cascading Style Sheets", "isCorrect": true },
+        { "answer": "Creative Style Sheets", "isCorrect": false },
+        { "answer": "Computer Style Sheets", "isCorrect": false },
+        { "answer": "Colorful Style Sheets", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Як в CSS визначити стиль для всіх елементів з класом 'btn'?",
+      "answers": [
+        { "answer": ".btn { }", "isCorrect": true },
+        { "answer": "#btn { }", "isCorrect": false },
+        { "answer": "button { }", "isCorrect": false },
+        { "answer": "button.btn { }", "isCorrect": false }
+      ]
+    }
+  ]
+}
